@@ -100,3 +100,8 @@ body {
 .deep-item-services:hover {
     background-color: paleturquoise;
 }
+
+.text {
+    width: 9g00px;
+    padding-top:20px;
+}
